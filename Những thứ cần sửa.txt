@@ -1,0 +1,24 @@
+_Load more(trang mới)
+_Đổi chủ đề(slide)
+_Làm link() (nút next back) video 40
+_Nút load more ngoài trang chủ chưa hoàn thành nên command lại sau làm tiếp..
+_Hướng dẫn filter ở vid 40 phút thứ 5
+_Các vùng pointer vẫn còn nhỏ nên khó tương tác(chưa làm)
+_background admin
+_comment
+_current time
+_Xem tất cả khuyến mãi
+
+
+_ logo trên tab
+_ lam conten tro xuong cua nam nu
+nt mail
+_xem lai pha
+_ size color áo quần
+_ làm giao diện email gửi khách hàng
+_ làm lại giao diện flash sales(bam nut tat ca ra khuyen mai flash sale)
+
+
+_ note lại những thứ muốn show
+_ lọc sp lọc tiền
+
